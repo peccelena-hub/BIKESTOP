@@ -1,3 +1,1 @@
-# BikeStop (MVP)
-
-Pacchetto pronto per deploy su Render (Docker).
+BikeStop (Web App MVP) - pacchetto completo per Render.
