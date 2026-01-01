@@ -1,3 +1,3 @@
-# BikeStop
+# BikeStop (MVP)
 
-Web app per viaggi condivisi tra ciclisti.
+Pacchetto pronto per deploy su Render (Docker).
